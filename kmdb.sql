@@ -79,7 +79,6 @@ CREATE TABLE movies(
     rating TEXT,
     director TEXT
 );
-
 CREATE TABLE casts(
     title TEXT,
     actor TEXT,
